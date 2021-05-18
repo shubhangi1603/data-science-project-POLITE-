@@ -1,4 +1,3 @@
-
 import tweepy
 import logging
 import os
@@ -27,11 +26,3 @@ def create_api():
 
 if __name__ == "__main__":
     create_api()
-
-
-
-
-
-
-
-
